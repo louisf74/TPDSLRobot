@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/table/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/description/1.1.0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:table="http://www.eclipse.org/sirius/table/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/table/description/1.1.0 http://www.eclipse.org/sirius/table/1.1.0#//description http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description" xmi:id="_woGVgILXEeWWtqfCoX1YlQ" selectedViews="_wwnYUILXEeWWtqfCoX1YlQ _wxe7AILXEeWWtqfCoX1YlQ _wyGmEILXEeWWtqfCoX1YlQ _wy2M8ILXEeWWtqfCoX1YlQ" version="10.0.0.201505222000">
+  <semanticResources>Domainmodel.ecore</semanticResources>
+  <semanticResources>http://www.eclipse.org/emf/2002/Ecore</semanticResources>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_wwnYUILXEeWWtqfCoX1YlQ">
+    <ownedRepresentations xmi:type="table:DTable" xmi:id="_1bZscILXEeWWtqfCoX1YlQ" name="domainmodel class table" headerColumnWidth="182">
+      <target xmi:type="ecore:EPackage" href="Domainmodel.ecore#/"/>
+      <lines xmi:type="table:DLine" xmi:id="_1ba6kILXEeWWtqfCoX1YlQ" label="Robot">
+        <target xmi:type="ecore:EClass" href="Domainmodel.ecore#//Robot"/>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6kYLXEeWWtqfCoX1YlQ" label="msgs : Message">
+          <target xmi:type="ecore:EReference" href="Domainmodel.ecore#//Robot/msgs"/>
+          <semanticElements xmi:type="ecore:EReference" href="Domainmodel.ecore#//Robot/msgs"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6koLXEeWWtqfCoX1YlQ" label="msgs" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EReference" href="Domainmodel.ecore#//Robot/msgs"/>
+            <semanticElements xmi:type="ecore:EReference" href="Domainmodel.ecore#//Robot/msgs"/>
+          </cells>
+        </lines>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6k4LXEeWWtqfCoX1YlQ" label="tasks : Task">
+          <target xmi:type="ecore:EReference" href="Domainmodel.ecore#//Robot/tasks"/>
+          <semanticElements xmi:type="ecore:EReference" href="Domainmodel.ecore#//Robot/tasks"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6lILXEeWWtqfCoX1YlQ" label="tasks" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EReference" href="Domainmodel.ecore#//Robot/tasks"/>
+            <semanticElements xmi:type="ecore:EReference" href="Domainmodel.ecore#//Robot/tasks"/>
+          </cells>
+        </lines>
+        <semanticElements xmi:type="ecore:EClass" href="Domainmodel.ecore#//Robot"/>
+        <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']"/>
+        <cells xmi:type="table:DCell" xmi:id="_1ba6lYLXEeWWtqfCoX1YlQ" label="Robot" column="_1ba6soLXEeWWtqfCoX1YlQ">
+          <target xmi:type="ecore:EClass" href="Domainmodel.ecore#//Robot"/>
+          <semanticElements xmi:type="ecore:EClass" href="Domainmodel.ecore#//Robot"/>
+        </cells>
+      </lines>
+      <lines xmi:type="table:DLine" xmi:id="_1ba6loLXEeWWtqfCoX1YlQ" label="Message">
+        <target xmi:type="ecore:EClass" href="Domainmodel.ecore#//Message"/>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6l4LXEeWWtqfCoX1YlQ" label="msg : EString">
+          <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Message/msg"/>
+          <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Message/msg"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6mILXEeWWtqfCoX1YlQ" label="msg" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Message/msg"/>
+            <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Message/msg"/>
+          </cells>
+        </lines>
+        <semanticElements xmi:type="ecore:EClass" href="Domainmodel.ecore#//Message"/>
+        <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']"/>
+        <cells xmi:type="table:DCell" xmi:id="_1ba6mYLXEeWWtqfCoX1YlQ" label="Message" column="_1ba6soLXEeWWtqfCoX1YlQ">
+          <target xmi:type="ecore:EClass" href="Domainmodel.ecore#//Message"/>
+          <semanticElements xmi:type="ecore:EClass" href="Domainmodel.ecore#//Message"/>
+        </cells>
+      </lines>
+      <lines xmi:type="table:DLine" xmi:id="_1ba6moLXEeWWtqfCoX1YlQ" label="Task">
+        <target xmi:type="ecore:EClass" href="Domainmodel.ecore#//Task"/>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6m4LXEeWWtqfCoX1YlQ" label="name : EString">
+          <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Task/name"/>
+          <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Task/name"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6nILXEeWWtqfCoX1YlQ" label="name" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Task/name"/>
+            <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Task/name"/>
+          </cells>
+        </lines>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6nYLXEeWWtqfCoX1YlQ" label="frequency : EInt">
+          <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Task/frequency"/>
+          <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Task/frequency"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6noLXEeWWtqfCoX1YlQ" label="frequency" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Task/frequency"/>
+            <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Task/frequency"/>
+          </cells>
+        </lines>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6n4LXEeWWtqfCoX1YlQ" label="moves : Move">
+          <target xmi:type="ecore:EReference" href="Domainmodel.ecore#//Task/moves"/>
+          <semanticElements xmi:type="ecore:EReference" href="Domainmodel.ecore#//Task/moves"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6oILXEeWWtqfCoX1YlQ" label="moves" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EReference" href="Domainmodel.ecore#//Task/moves"/>
+            <semanticElements xmi:type="ecore:EReference" href="Domainmodel.ecore#//Task/moves"/>
+          </cells>
+        </lines>
+        <semanticElements xmi:type="ecore:EClass" href="Domainmodel.ecore#//Task"/>
+        <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']"/>
+        <cells xmi:type="table:DCell" xmi:id="_1ba6oYLXEeWWtqfCoX1YlQ" label="Task" column="_1ba6soLXEeWWtqfCoX1YlQ">
+          <target xmi:type="ecore:EClass" href="Domainmodel.ecore#//Task"/>
+          <semanticElements xmi:type="ecore:EClass" href="Domainmodel.ecore#//Task"/>
+        </cells>
+      </lines>
+      <lines xmi:type="table:DLine" xmi:id="_1ba6ooLXEeWWtqfCoX1YlQ" label="Move">
+        <target xmi:type="ecore:EClass" href="Domainmodel.ecore#//Move"/>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6o4LXEeWWtqfCoX1YlQ" label="name : EString">
+          <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/name"/>
+          <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/name"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6pILXEeWWtqfCoX1YlQ" label="name" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/name"/>
+            <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/name"/>
+          </cells>
+        </lines>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6pYLXEeWWtqfCoX1YlQ" label="start : Condition">
+          <target xmi:type="ecore:EReference" href="Domainmodel.ecore#//Move/start"/>
+          <semanticElements xmi:type="ecore:EReference" href="Domainmodel.ecore#//Move/start"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6poLXEeWWtqfCoX1YlQ" label="start" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EReference" href="Domainmodel.ecore#//Move/start"/>
+            <semanticElements xmi:type="ecore:EReference" href="Domainmodel.ecore#//Move/start"/>
+          </cells>
+        </lines>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6p4LXEeWWtqfCoX1YlQ" label="end : Condition">
+          <target xmi:type="ecore:EReference" href="Domainmodel.ecore#//Move/end"/>
+          <semanticElements xmi:type="ecore:EReference" href="Domainmodel.ecore#//Move/end"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6qILXEeWWtqfCoX1YlQ" label="end" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EReference" href="Domainmodel.ecore#//Move/end"/>
+            <semanticElements xmi:type="ecore:EReference" href="Domainmodel.ecore#//Move/end"/>
+          </cells>
+        </lines>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6qYLXEeWWtqfCoX1YlQ" label="seed : EInt">
+          <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/seed"/>
+          <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/seed"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6qoLXEeWWtqfCoX1YlQ" label="seed" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/seed"/>
+            <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/seed"/>
+          </cells>
+        </lines>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6q4LXEeWWtqfCoX1YlQ" label="rotation : EInt">
+          <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/rotation"/>
+          <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/rotation"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6rILXEeWWtqfCoX1YlQ" label="rotation" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/rotation"/>
+            <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Move/rotation"/>
+          </cells>
+        </lines>
+        <semanticElements xmi:type="ecore:EClass" href="Domainmodel.ecore#//Move"/>
+        <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']"/>
+        <cells xmi:type="table:DCell" xmi:id="_1ba6rYLXEeWWtqfCoX1YlQ" label="Move" column="_1ba6soLXEeWWtqfCoX1YlQ">
+          <target xmi:type="ecore:EClass" href="Domainmodel.ecore#//Move"/>
+          <semanticElements xmi:type="ecore:EClass" href="Domainmodel.ecore#//Move"/>
+        </cells>
+      </lines>
+      <lines xmi:type="table:DLine" xmi:id="_1ba6roLXEeWWtqfCoX1YlQ" label="Condition">
+        <target xmi:type="ecore:EClass" href="Domainmodel.ecore#//Condition"/>
+        <lines xmi:type="table:DLine" xmi:id="_1ba6r4LXEeWWtqfCoX1YlQ" label="cond : ConditionValue">
+          <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Condition/cond"/>
+          <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Condition/cond"/>
+          <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']/@ownedSubLines[name='Feature']"/>
+          <cells xmi:type="table:DCell" xmi:id="_1ba6sILXEeWWtqfCoX1YlQ" label="cond" column="_1ba6soLXEeWWtqfCoX1YlQ">
+            <target xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Condition/cond"/>
+            <semanticElements xmi:type="ecore:EAttribute" href="Domainmodel.ecore#//Condition/cond"/>
+          </cells>
+        </lines>
+        <semanticElements xmi:type="ecore:EClass" href="Domainmodel.ecore#//Condition"/>
+        <originMapping xmi:type="description:LineMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedLineMappings[name='Classes%20lines']"/>
+        <cells xmi:type="table:DCell" xmi:id="_1ba6sYLXEeWWtqfCoX1YlQ" label="Condition" column="_1ba6soLXEeWWtqfCoX1YlQ">
+          <target xmi:type="ecore:EClass" href="Domainmodel.ecore#//Condition"/>
+          <semanticElements xmi:type="ecore:EClass" href="Domainmodel.ecore#//Condition"/>
+        </cells>
+      </lines>
+      <columns xmi:type="table:DFeatureColumn" xmi:id="_1ba6soLXEeWWtqfCoX1YlQ" label="Name" cells="_1ba6lYLXEeWWtqfCoX1YlQ _1ba6koLXEeWWtqfCoX1YlQ _1ba6lILXEeWWtqfCoX1YlQ _1ba6mYLXEeWWtqfCoX1YlQ _1ba6mILXEeWWtqfCoX1YlQ _1ba6oYLXEeWWtqfCoX1YlQ _1ba6nILXEeWWtqfCoX1YlQ _1ba6noLXEeWWtqfCoX1YlQ _1ba6oILXEeWWtqfCoX1YlQ _1ba6rYLXEeWWtqfCoX1YlQ _1ba6pILXEeWWtqfCoX1YlQ _1ba6poLXEeWWtqfCoX1YlQ _1ba6qILXEeWWtqfCoX1YlQ _1ba6qoLXEeWWtqfCoX1YlQ _1ba6rILXEeWWtqfCoX1YlQ _1ba6sYLXEeWWtqfCoX1YlQ _1ba6sILXEeWWtqfCoX1YlQ" width="62" featureName="name">
+        <originMapping xmi:type="description:FeatureColumnMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']/@ownedColumnMappings[name='Name']"/>
+      </columns>
+      <description xmi:type="description:EditionTableDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Classes']"/>
+    </ownedRepresentations>
+    <viewpoint xmi:type="description_1:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']"/>
+  </ownedViews>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_wxe7AILXEeWWtqfCoX1YlQ">
+    <viewpoint xmi:type="description_1:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Review']"/>
+  </ownedViews>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_wyGmEILXEeWWtqfCoX1YlQ">
+    <viewpoint xmi:type="description_1:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Archetype']"/>
+  </ownedViews>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_wy2M8ILXEeWWtqfCoX1YlQ">
+    <viewpoint xmi:type="description_1:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Generation']"/>
+  </ownedViews>
+</viewpoint:DAnalysis>

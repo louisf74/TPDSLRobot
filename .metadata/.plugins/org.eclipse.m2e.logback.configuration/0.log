@@ -1,0 +1,86 @@
+2015-11-24 15:44:45,520 [ModalContext] WARN  o.e.m.j.i.JavaProjectConversionParticipant - org.xtext.example.mydsl has multiple source entries, this is not supported yet
+2015-11-24 15:44:50,297 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl:org.xtext.example.mydsl:0.0.1-SNAPSHOT @ C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl\pom.xml.
+2015-11-24 15:44:54,261 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /org.xtext.example.mydsl/src
+2015-11-24 15:44:54,261 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /org.xtext.example.mydsl/src overlaps with sources folder /org.xtext.example.mydsl/src
+2015-11-24 15:44:54,266 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /org.xtext.example.mydsl/src-gen
+2015-11-24 15:44:54,408 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /org.xtext.example.mydsl/xtend-gen
+2015-11-24 15:44:54,416 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /org.xtext.example.mydsl/src/test/java because it overlaps with /org.xtext.example.mydsl/src
+2015-11-24 15:44:54,969 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-24 15:44:57,470 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl:org.xtext.example.mydsl:0.0.1-SNAPSHOT @ C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl\pom.xml.
+2015-11-24 15:44:58,333 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /org.xtext.example.mydsl/src
+2015-11-24 15:44:58,333 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /org.xtext.example.mydsl/src overlaps with sources folder /org.xtext.example.mydsl/src
+2015-11-24 15:44:58,337 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /org.xtext.example.mydsl/src-gen
+2015-11-24 15:44:58,339 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /org.xtext.example.mydsl/xtend-gen
+2015-11-24 15:44:58,341 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /org.xtext.example.mydsl/src/test/java because it overlaps with /org.xtext.example.mydsl/src
+2015-11-24 15:44:58,695 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2015-11-24 15:45:01,035 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:45:01,054 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-24 15:45:01,109 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2015-11-24 15:45:01,154 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-11-24 15:45:01,251 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:45:01,253 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl\src\test\resources
+2015-11-24 15:45:02,272 [main] WARN  o.e.m.c.u.i.a.EnableNatureAction - Skipping project org.xtext.example.mydsl.sdk, no pom.xml file present, no reason to have maven nature enabled
+2015-11-24 15:45:02,273 [main] WARN  o.e.m.c.u.i.a.EnableNatureAction - Skipping project org.xtext.example.mydsl.tests, no pom.xml file present, no reason to have maven nature enabled
+2015-11-24 15:45:02,274 [main] WARN  o.e.m.c.u.i.a.EnableNatureAction - Skipping project org.xtext.example.mydsl.ui, no pom.xml file present, no reason to have maven nature enabled
+2015-11-24 15:45:16,912 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl.sdk:org.xtext.example.mydsl.sdk:0.0.1-SNAPSHOT @ C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.sdk\pom.xml.
+2015-11-24 15:45:17,172 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /org.xtext.example.mydsl.sdk/src/main/java
+2015-11-24 15:45:17,173 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /org.xtext.example.mydsl.sdk/src/test/java
+2015-11-24 15:45:17,266 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-24 15:45:17,875 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl.sdk:org.xtext.example.mydsl.sdk:0.0.1-SNAPSHOT @ C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.sdk\pom.xml.
+2015-11-24 15:45:18,144 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /org.xtext.example.mydsl.sdk/src/main/java
+2015-11-24 15:45:18,144 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /org.xtext.example.mydsl.sdk/src/test/java
+2015-11-24 15:45:18,199 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-11-24 15:45:18,364 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:45:18,365 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.sdk\src\main\resources
+2015-11-24 15:45:18,366 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:45:18,366 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.sdk\src\test\resources
+2015-11-24 15:45:27,591 [ModalContext] WARN  o.e.m.j.i.JavaProjectConversionParticipant - org.xtext.example.mydsl.tests has multiple source entries, this is not supported yet
+2015-11-24 15:45:28,786 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl.tests:org.xtext.example.mydsl.tests:0.0.1-SNAPSHOT @ C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.tests\pom.xml.
+2015-11-24 15:45:29,143 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /org.xtext.example.mydsl.tests/src
+2015-11-24 15:45:29,143 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /org.xtext.example.mydsl.tests/src/test/java because it overlaps with /org.xtext.example.mydsl.tests/src
+2015-11-24 15:45:29,281 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-24 15:45:29,403 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl.tests:org.xtext.example.mydsl.tests:0.0.1-SNAPSHOT @ C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.tests\pom.xml.
+2015-11-24 15:45:29,500 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /org.xtext.example.mydsl.tests/src
+2015-11-24 15:45:29,501 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /org.xtext.example.mydsl.tests/src/test/java because it overlaps with /org.xtext.example.mydsl.tests/src
+2015-11-24 15:45:29,846 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-11-24 15:45:30,056 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:45:30,056 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.tests\src\main\resources
+2015-11-24 15:45:30,057 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:45:30,058 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.tests\src\test\resources
+2015-11-24 15:45:38,048 [ModalContext] WARN  o.e.m.j.i.JavaProjectConversionParticipant - org.xtext.example.mydsl.ui has multiple source entries, this is not supported yet
+2015-11-24 15:45:39,241 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl.ui:org.xtext.example.mydsl.ui:0.0.1-SNAPSHOT @ C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.ui\pom.xml.
+2015-11-24 15:45:39,647 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /org.xtext.example.mydsl.ui/src
+2015-11-24 15:45:39,648 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /org.xtext.example.mydsl.ui/src overlaps with sources folder /org.xtext.example.mydsl.ui/src
+2015-11-24 15:45:39,651 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /org.xtext.example.mydsl.ui/src-gen
+2015-11-24 15:45:39,800 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /org.xtext.example.mydsl.ui/xtend-gen
+2015-11-24 15:45:39,881 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /org.xtext.example.mydsl.ui/src/test/java because it overlaps with /org.xtext.example.mydsl.ui/src
+2015-11-24 15:45:40,081 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-24 15:45:40,128 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.xtext.example.mydsl.ui:org.xtext.example.mydsl.ui:0.0.1-SNAPSHOT @ C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.ui\pom.xml.
+2015-11-24 15:45:40,228 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /org.xtext.example.mydsl.ui/src
+2015-11-24 15:45:40,228 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /org.xtext.example.mydsl.ui/src overlaps with sources folder /org.xtext.example.mydsl.ui/src
+2015-11-24 15:45:40,230 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /org.xtext.example.mydsl.ui/src-gen
+2015-11-24 15:45:40,232 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /org.xtext.example.mydsl.ui/xtend-gen
+2015-11-24 15:45:40,234 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /org.xtext.example.mydsl.ui/src/test/java because it overlaps with /org.xtext.example.mydsl.ui/src
+2015-11-24 15:45:40,632 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-11-24 15:45:42,524 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:45:42,525 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-11-24 15:45:42,541 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-24 15:45:42,550 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2015-11-24 15:45:42,577 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:45:42,578 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.ui\src\test\resources
+2015-11-24 15:45:42,966 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:45:42,967 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.tests\src\main\resources
+2015-11-24 15:45:42,968 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:45:42,969 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.tests\src\test\resources
+2015-11-24 15:49:54,021 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:49:54,023 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-24 15:49:54,024 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-24 15:49:54,024 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-24 15:49:54,025 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:49:54,026 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl\src\test\resources
+2015-11-24 15:49:54,058 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:49:54,059 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-24 15:49:54,060 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-24 15:49:54,060 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-24 15:49:54,061 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-24 15:49:54,061 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Florian\workspace\XTextBasicExemple\org.xtext.example.mydsl.ui\src\test\resources
